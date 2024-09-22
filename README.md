@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhansu</h1>
 <h3 align="center">A passionate Software Test Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dthpnue1d/image/upload/c_fill,g_faces,w_1280/c_scale,q_auto,f_auto,fl_lossy/Software_Testingbanner_be074c241d?_a=DAJAUVWIZAA0">
+<img align="right" alt="Coding" width="200" src="https://res.cloudinary.com/dthpnue1d/image/upload/c_fill,g_faces,w_1280/c_scale,q_auto,f_auto,fl_lossy/Software_Testingbanner_be074c241d?_a=DAJAUVWIZAA0">
 
 - 🔭 I’m currently working on [Python Automation Framework](https://github.com/sudhansu4107/Selenium_projects.git)
 
