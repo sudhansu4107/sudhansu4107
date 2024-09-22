@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sudhansu</h1>
 <h3 align="center">A passionate Software Test Engineer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://res.cloudinary.com/dthpnue1d/image/upload/c_fill,g_faces,w_1280/c_scale,q_auto,f_auto,fl_lossy/Software_Testingbanner_be074c241d?_a=DAJAUVWIZAA0">
+<img align="right" alt="Coding" width="300" src="https://res.cloudinary.com/dthpnue1d/image/upload/c_fill,g_faces,w_1280/c_scale,q_auto,f_auto,fl_lossy/Software_Testingbanner_be074c241d?_a=DAJAUVWIZAA0">
 
-- 🔭 I’m currently working on [Python Automation Frameworks](https://github.com/sudhansu4107/Selenium_projects.git)
+- I’m currently working on [Python Automation Frameworks](https://github.com/sudhansu4107/Selenium_projects.git)
 
-- 🌱 I’m currently learning **Python Bootcamp, DevOps Fundamentals**
+- I’m currently learning **Python Bootcamp & DevOps Fundamentals**
 
-- 👯 I’m looking to collaborate on [UI/API/Mobile Automation Frameworks](https://github.com/sudhansu4107/UIRobot.git)
+- I’m looking to collaborate on [UI/API/Mobile Automation Frameworks](https://github.com/sudhansu4107/UIRobot.git)
 
-- 🤝 I’m looking for help with **Mobile Automation Framework**
+- 🤝 I’m looking for help with **Mobile Automation Framework & DevOps Journey**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sudhansu4107/sudhansu4107](https://github.com/sudhansu4107/sudhansu4107)
+- All of my projects are available at [https://github.com/sudhansu4107/sudhansu4107](https://github.com/sudhansu4107/sudhansu4107)
 
-- 📫 How to reach me **goudakumarsudhansu@gmail.com**
+- How to reach me **goudakumarsudhansu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xTc_IzXYgsuN6ih3U-aumW8cqRaXLBgz/view?usp=sharing](https://drive.google.com/file/d/1xTc_IzXYgsuN6ih3U-aumW8cqRaXLBgz/view?usp=sharing)
+- Know about my experiences [https://drive.google.com/file/d/1xTc_IzXYgsuN6ih3U-aumW8cqRaXLBgz/view?usp=sharing](https://drive.google.com/file/d/1xTc_IzXYgsuN6ih3U-aumW8cqRaXLBgz/view?usp=sharing)
 
-- ⚡ Fun fact **Tell me where im going to Die , so i will never go there.**
+- ⚡ Fun fact **Tell me where im going to Die , so i will never go there ☺️ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
