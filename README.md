@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Test Engineer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://res.cloudinary.com/dthpnue1d/image/upload/c_fill,g_faces,w_1280/c_scale,q_auto,f_auto,fl_lossy/Software_Testingbanner_be074c241d?_a=DAJAUVWIZAA0">
 
-- I’m currently working on [Python Automation Frameworks](https://github.com/sudhansu4107/Selenium_projects.git)
+- I’m currently working on [Automation Testing Frameworks](https://github.com/sudhansu4107/Selenium_projects.git)
 
 - I’m currently learning **Python Bootcamp & DevOps Fundamentals**
 
